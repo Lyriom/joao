@@ -3,6 +3,7 @@ public class HolaMundo {
         public static void main(String[] args) {
 
             String saludar = "Josue Riera";
+            String joao = "Hola Joao";
 
             System.out.println(saludar);
             System.out.println("saludar.toUpperCase()= " +saludar.toUpperCase());
